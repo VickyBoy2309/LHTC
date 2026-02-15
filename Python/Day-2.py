@@ -42,7 +42,6 @@ friends *= 3 #Multiplication
 friends /= 2 #Division
 friends **= 2 #Exponentiation
 friends %= 2 #Modulus
-friends /= 2
 
 # Arithmetic Operator (Mathematical)
 friends = friends + 1 #Addition
